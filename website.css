@@ -1,0 +1,40 @@
+body {
+    background: url("./bars.gif") fixed center center;
+    background-size: cover;
+}
+
+#center {
+    position: fixed;
+
+    left: 50%;
+    top: 50%;
+    transform: Translate(-50%, -50%);
+
+    font-family: "Ubuntu Mono", monospace;
+    font-size: 1em;
+    text-align: center;
+
+    text-shadow: 1px 1px 1px black;
+
+    color: white;
+
+
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#bg {
+    z-index: -1;
+
+    position: fixed;
+
+    left: 50%;
+    top: 50%;
+    transform: Translate(-50%, -50%);
+
+    min-width: 115%;
+    min-height: 115%;
+}
