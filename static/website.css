@@ -1,5 +1,5 @@
 body {
-    background: url("/aos/static/bars.webm") fixed no-repeat center center;
+    background: url("/static/bars.webm") fixed no-repeat center center;
     background-size: cover;
 }
 
