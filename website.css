@@ -10,7 +10,7 @@ body {
     top: 50%;
     transform: Translate(-50%, -50%);
 
-    font-family: "Ubuntu Mono", monospace;
+    font-family: monospace;
     font-size: 1em;
     text-align: center;
 
